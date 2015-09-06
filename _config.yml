@@ -2,7 +2,6 @@
 title: Jack's blog
 email: jack.middlebrook@gmail.com
 description: A blog about what I am learning - mostly related to android and python.
-baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jackmiddlebrook.com" # the base hostname & protocol for your site
 twitter_username: JackMiddlebrook
 github_username:  sjmiddlebrook
